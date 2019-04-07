@@ -1,3 +1,4 @@
 # dl_research
-My Deep Learning Research Papers (till 2017)
+
+A summary of  Deep Learning Research Papers publish till 2017 made by Sanqiang Zhao 
 
